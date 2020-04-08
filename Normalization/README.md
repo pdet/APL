@@ -18,3 +18,20 @@ WideTables based on the workload.
 TL;DR: this idea was explored before, the updates are a problem, but at least the (re)build
 is not future work. Maybe normalization considering partitions instead of the whole table
 could work.
+
+## System/U: A Database System Based on the Universal Relation Assumption
+
+The paper talks about a universal table, which would be a VIEW on top of all relations.
+Then it proceeds to describe the Data Description Language and the Data Management Language.
+It is related to our topic, but they don't physically reorganize things.
+
+## Constant-Time Query Processing
+
+The paper proposes using a single denormalized relation with frequency partitioning and SIMD execution.
+Updates on the denormalized relation is considered future work.
+This is the original paper for Blink.
+They never mention which tables to denormalize. We are interested in how to denormalize and in which tables, the compression and other techniques on top of it are important but not for now.
+
+## Bitwise Dimensional Co-Clustering
+
+TL;DR: space filling curve that uses attributes from different tables to improve join performance. The co-clustering improves data locality.
