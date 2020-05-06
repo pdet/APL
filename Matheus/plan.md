@@ -1,24 +1,22 @@
 # 2020 Plan
 ## May
+### Week 1
 
 - [x] Implement BitVector
 - [ ] Run uniform data and workload experiments
-- [ ] Run skewed data and/or workload experiments
+- [ ] Run real world experiments (Genome and Power)
 - [ ] Outline methods section
-
-### Week 1
-
-- [ ] Write methods section
-- [ ] Write the syntetic workload part of experiments section
-- [ ] Run real world experiments (Genome)
 
 ### Week 2
 
-- [ ] Write real world experiments section
-- [ ] Write conclusion
+- [ ] Get workloads from Progressive Index paper
+- [ ] Write Methods section
+- [ ] Write Experiments section
 
 ### Week 3
 
+- [ ] Write Experiments section
+- [ ] Write Conclusion
 - [ ] Write Related Work
 
 ### Week 4
