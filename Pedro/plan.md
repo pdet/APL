@@ -5,6 +5,7 @@
 - [x] Thesis Planning
 - [ ] Merging Progressive Create into Mult Idx
 - [ ] Tests for Progressive Create Mult Idx
+- [ ] Bitvector micro-benchmark
 
 ### Week 2
 - [ ] Write Introduction (Chapter 1)
