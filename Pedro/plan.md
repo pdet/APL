@@ -3,8 +3,8 @@
 ### Week 1
 - [x] Write Table of Contents
 - [x] Thesis Planning
-- [ ] Merging Progressive Create into Mult Idx
-- [ ] Tests for Progressive Create Mult Idx
+- [x] Merging Progressive Create into Mult Idx
+- [x] Tests for Progressive Create Mult Idx
 - [ ] Bitvector micro-benchmark
 
 ### Week 2
