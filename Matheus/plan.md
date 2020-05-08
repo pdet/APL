@@ -51,14 +51,11 @@
 - [ ] Write Abstract
 
 ## June
-### Week 1
-
 - [ ] MDAI paper revision
-Multidimensional Paper (Last year dates)
-		Abstract submission due: June 8, 2019
-		Submission due: June 15, 2019
 
-
+- [ ] Multidimensional Paper (Last year dates)
+	- Abstract submission due: June 8, 2019
+	- Submission due: June 15, 2019
 
 - [ ] Workshop paper
     - Experimental paper with different methods to scan a table with MultD queries.
@@ -82,3 +79,4 @@ Multidimensional Paper (Last year dates)
 - [ ] User Committee meeting
 ## November
 ## December
+- Vacation maybe?
