@@ -7,8 +7,7 @@
 - [ ] Run uniform data and workload experiments
     - Finished, 10M rows, 1% sel, 1000 queries
     - Variation: selectivity, number of rows
-    
-   ```
+```
 | 0.001 | 0.01 | 0.1   | 0.5   | 0.9   |
 | ----- |:----:| -----:| -----:|------:|
 | 100K	|      |       |       |       |
