@@ -5,14 +5,20 @@
 - [x] Thesis Planning
 - [x] Merging Progressive Create into Mult Idx
 - [x] Tests for Progressive Create Mult Idx
-- [ ] Bitvector micro-benchmark
 
 ### Week 2
-- [ ] Write Introduction (Chapter 1)
 - [ ] Progressive Refinement into Mult Idx
 - [ ] Tests for Progressive Refinement Mult Idx
+- [ ] Md PI All Benchmarks Running
+- [ ] Write Md PI Method
 
 ### Week 3
+- [ ] Md PI Cost Model
+- [ ] Implement Md PI Cost Model
+- [ ] Write Md PI Cost Model
+
+### Week 4
+- [ ] Write Introduction (Chapter 1)
 - [ ] Write Backgrond (Chapter 2)
 - [ ] Run Experiments for backgrond chapter:
 	- [ ] First Query Cost (Bar Chart)
@@ -20,10 +26,10 @@
 	- [ ] Convergence (Per Query Cost)
 	- [ ] Total Cost (Bar Chart)
 
-### Week 4
-- [ ] Md PI All Benchmarks Running
-
 ## June
+	Multidimensional Paper (Writing)
+		Abstract submission due: June 8, 2019
+		Submission due: June 15, 2019
 	Multidimensional Paper 
 		Writing
 	Adaptive Multidimensional Progressive Indexing
@@ -32,10 +38,16 @@
 		Ship Clean Version of Progressive Indexing 
 			(Right now only progressive quicksort is clean)
 		Run Experiments With Fixed Delta
+### Week 1
+- [ ] Write Introduction (Chapter 1)
+- [ ] Write Backgrond (Chapter 2)
+- [ ] Run Experiments for backgrond chapter:
+	- [ ] First Query Cost (Bar Chart)
+	- [ ] Robustness (Bar chart + sum_time)
+	- [ ] Convergence (Per Query Cost)
+	- [ ] Total Cost (Bar Chart)
+
 ## July
-	Multidimensional Paper (Writing)
-		Abstract submission due: June 8, 2019
-		Submission due: June 15, 2019
 	Chapter 4 (Adaptive Progressive Indexing)
 		Ship Clean Version of Progressive Indexing With Cost Models
 		Include Reactive Progressive Indexing
@@ -66,3 +78,6 @@
 ## December
 	Chapter 7 (Conclusion + Big Picture)
 		Finish writing
+
+## Random Ideas
+- [ ] Bitvector micro-benchmark
