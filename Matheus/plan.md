@@ -19,11 +19,8 @@
 
 
 - [ ] Run real world experiments (Genome and Power)
-    - Quasii is not working, infinite loop or just taking too long.
-    - Results are strange, after some queries the selectivity drops to 0.0.
     - Still need to implement the power benchmark.
-- [ ] Implement turning off parts of the Cracking KDTree when it reaches the minimum
-        partition size
+- [ ] Implement turning off parts of the Cracking KDTree when it reaches the minimum partition size
 
 ### Week 2
 
