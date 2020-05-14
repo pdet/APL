@@ -4,7 +4,7 @@
 ### Week 1
 
 - [x] Implement BitVector
-- [ ] Run uniform data and workload experiments
+- [x] Run uniform data and workload experiments
     - Finished, 10M rows, 1% sel, 1000 queries
     - Variation: selectivity, number of rows
 ```
@@ -18,34 +18,31 @@
 ```
 
 
-- [ ] Run real world experiments (Genome and Power)
+- [x] Run real world experiments (Genome and Power)
     - Still need to implement the power benchmark.
 - [ ] Implement turning off parts of the Cracking KDTree when it reaches the minimum partition size
+    - Apparently it did not bring benefits, still need to check it
 
 ### Week 2
 
-- [ ] Outline methods section
-    - At least put the topics of each paragraph.
 - [ ] Get workloads from Progressive Index paper
     - Figure 06 from Progressive Indexes: Indexing for Interactive Data Analysis
+    - All of them can be used, just need to implement it
     - Two dimensions, and color demonstrates the query order.
 - [ ] Write Methods section
-    - Actually write the methods section, at least my part of it.
-- [ ] Write Experiments section
-    - Start writing the experiments section, by now the experiments shold all
-        be running fine.
+    - Write the methods section, at least my part of it.
 
 ### Week 3
 
+- [ ] Write methods section
 - [ ] Write Experiments section
     - Finish experiments section
-- [ ] Write Conclusion
-- [ ] Write Related Work
 
 ### Week 4
 
-- [ ] Write Introduction
-- [ ] Write Abstract
+- [ ] Write methods section
+- [ ] Write Experiments section
+    - Finish experiments section
 
 ## June
 - [ ] MDAI paper revision
