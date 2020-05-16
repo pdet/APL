@@ -7,24 +7,20 @@
 - [x] Tests for Progressive Create Mult Idx
 
 ### Week 2
-- [ ] Progressive Refinement into Mult Idx
-- [ ] Tests for Progressive Refinement Mult Idx
-- [ ] Md PI All Benchmarks Running
-- [ ] Write Md PI Method
+- [X] Progressive Refinement [workload dependent + workload agn] into Mult Idx
+- [X] Tests for Progressive Refinement Mult Idx
 
 ### Week 3
 - [ ] Md PI Cost Model
 - [ ] Implement Md PI Cost Model
-- [ ] Write Md PI Cost Model
+- [ ] Delta Experiments (e.g., pay-off, conv, first query, total queries)
+- [ ] Cost Model Validation
 
 ### Week 4
-- [ ] Write Introduction (Chapter 1)
-- [ ] Write Backgrond (Chapter 2)
-- [ ] Run Experiments for backgrond chapter:
-	- [ ] First Query Cost (Bar Chart)
-	- [ ] Robustness (Bar chart + sum_time)
-	- [ ] Convergence (Per Query Cost)
-	- [ ] Total Cost (Bar Chart)
+- [ ] Skyserver Benchmark
+- [ ] Write PI Methods + Delta Results
+- [ ] Write PI Cost Model Method + Cost Model Validation
+
 
 ## June
 	Multidimensional Paper (Writing)
