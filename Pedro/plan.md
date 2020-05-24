@@ -11,30 +11,28 @@
 - [X] Tests for Progressive Refinement Mult Idx
 
 ### Week 3
-- [ ] Md PI Cost Model
-- [ ] Implement Md PI Cost Model
-- [ ] Delta Experiments (e.g., pay-off, conv, first query, total queries)
-- [ ] Cost Model Validation
+- [X] Md PI Cost Model
+- [X] Skyserver Benchmark (2 Col)
+- [X] Delta Experiments (e.g., pay-off, conv, first query, total queries)
 
 ### Week 4
-- [ ] Skyserver Benchmark
+- [ ] Implement Md PI Cost Model
+- [ ] Tests Md PI Cost Model
+- [ ] Cost Model Validation
 - [ ] Write PI Methods + Delta Results
 - [ ] Write PI Cost Model Method + Cost Model Validation
+- [ ] Skyserver Benchmark (6 Col)
+- [ ] Scan Optimzation for Refinement 
 
 
 ## June
-	Multidimensional Paper (Writing)
-		Abstract submission due: June 8, 2019
-		Submission due: June 15, 2019
-	Multidimensional Paper 
-		Writing
-	Adaptive Multidimensional Progressive Indexing
-		Cost Model
-	Chapter 3 (Progressive Indexing)
-		Ship Clean Version of Progressive Indexing 
-			(Right now only progressive quicksort is clean)
-		Run Experiments With Fixed Delta
 ### Week 1
+
+### Week 2 (Abstract submission due: June 8, 2019)
+
+### Week 3 (Submission due: June 15, 2019)
+
+### Week 4
 - [ ] Write Introduction (Chapter 1)
 - [ ] Write Backgrond (Chapter 2)
 - [ ] Run Experiments for backgrond chapter:
@@ -42,7 +40,6 @@
 	- [ ] Robustness (Bar chart + sum_time)
 	- [ ] Convergence (Per Query Cost)
 	- [ ] Total Cost (Bar Chart)
-
 ## July
 	Chapter 4 (Adaptive Progressive Indexing)
 		Ship Clean Version of Progressive Indexing With Cost Models
