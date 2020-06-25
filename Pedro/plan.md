@@ -9,15 +9,26 @@
 ### Week 3
 - [ ] Progressive Mergesort for Refinement
 ### Week 4
-- [ ] Regular BPTree for consolidation
+- [ ] Greedy Mergesort for Refinement
 
 ## August
-
+### Week 1
+- [ ] Regular BPTree for consolidation
+### Week 2
+- [ ] Scripts for experiments + plots
+### Week 3
+- [ ] Introduction + Related Work
+### Week 4
+- [ ] Methods
 ## September
-	Progressive Updates
-		Progressive Mergesort Implementation
-		Adaptive Progressive Mergesort Implementation
-	Updates Paper (Writing)
+### Week 1
+- [ ] Experiments, Conclusion, FW
+### Week 2
+- [ ] Revision
+### Week 3
+- [ ] Revision
+### Week 4
+- [ ] Revision
 ## October
 	ICDE - Abstract (October 7th) Submission (October 14th)
 	EDBT Abstract (October 7th) Submission (October 11th)
@@ -27,7 +38,9 @@
 		EDBT Call for Short Papers
 		Submission	Notification	Camera-ready copy
 		November 29, 2019	December 29, 2019	January 24, 2020
-## November
+### Week 1
+- [ ] Revision
+### Week 2
 - [ ] Write Introduction (Chapter 1)
 - [ ] Write Backgrond (Chapter 2)
 - [ ] Run Experiments for backgrond chapter:
@@ -35,6 +48,13 @@
 	- [ ] Robustness (Bar chart + sum_time)
 	- [ ] Convergence (Per Query Cost)
 	- [ ] Total Cost (Bar Chart)
+### Week 3
+- [ ] Revision
+### Week 4
+- [ ] Revision
+
+## November
+
 		Chapter 4 (Adaptive Progressive Indexing)
 		Ship Clean Version of Progressive Indexing With Cost Models
 		Include Reactive Progressive Indexing
@@ -54,3 +74,4 @@
 
 ## Random Ideas
 - [ ] Bitvector micro-benchmark
+- [ ] Adaptive Learned Index
