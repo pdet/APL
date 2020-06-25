@@ -1,62 +1,26 @@
 # 2020 Plan
-## May
+## July
 ### Week 1
-- [x] Write Table of Contents
-- [x] Thesis Planning
-- [x] Merging Progressive Create into Mult Idx
-- [x] Tests for Progressive Create Mult Idx
+- [ ] Integrate Cracking Updates w/ Progressive
 
 ### Week 2
-- [X] Progressive Refinement [workload dependent + workload agn] into Mult Idx
-- [X] Tests for Progressive Refinement Mult Idx
+- [ ] Memory Rewiring for Creation Phase
 
 ### Week 3
-- [X] Md PI Cost Model
-- [X] Skyserver Benchmark (2 Col)
-- [X] Delta Experiments (e.g., pay-off, conv, first query, total queries)
-
+- [ ] Progressive Mergesort for Refinement
 ### Week 4
-- [ ] Implement Md PI Cost Model
-- [ ] Tests Md PI Cost Model
-- [ ] Cost Model Validation
-- [ ] Write PI Methods + Delta Results
-- [ ] Write PI Cost Model Method + Cost Model Validation
-- [ ] Skyserver Benchmark (6 Col)
-- [ ] Scan Optimzation for Refinement 
+- [ ] Regular BPTree for consolidation
 
-
-## June
-### Week 1
-
-### Week 2 (Abstract submission due: June 8, 2019)
-
-### Week 3 (Submission due: June 15, 2019)
-
-### Week 4
-- [ ] Write Introduction (Chapter 1)
-- [ ] Write Backgrond (Chapter 2)
-- [ ] Run Experiments for backgrond chapter:
-	- [ ] First Query Cost (Bar Chart)
-	- [ ] Robustness (Bar chart + sum_time)
-	- [ ] Convergence (Per Query Cost)
-	- [ ] Total Cost (Bar Chart)
-## July
-	Chapter 4 (Adaptive Progressive Indexing)
-		Ship Clean Version of Progressive Indexing With Cost Models
-		Include Reactive Progressive Indexing
-		Bring Function Interactive Threshold back
-		Run Experiments With Cost Model	
 ## August
-	Chapter 5 (Multidimensional Progressive Indexing)
-		Turn paper into chapter + writing extension of PI
-	Progressive Updates
-		Finish integration of crakcing updates into progressive Indexing
+
 ## September
 	Progressive Updates
 		Progressive Mergesort Implementation
 		Adaptive Progressive Mergesort Implementation
 	Updates Paper (Writing)
 ## October
+	ICDE - Abstract (October 7th) Submission (October 14th)
+	EDBT Abstract (October 7th) Submission (October 11th)
 	Updates Paper (Writing)
 		Abstract	Full Paper	Notification	Camera-ready copy
 		October 7, 2019	October 11, 2019	November 22, 2019	January 24, 2020
@@ -64,6 +28,22 @@
 		Submission	Notification	Camera-ready copy
 		November 29, 2019	December 29, 2019	January 24, 2020
 ## November
+- [ ] Write Introduction (Chapter 1)
+- [ ] Write Backgrond (Chapter 2)
+- [ ] Run Experiments for backgrond chapter:
+	- [ ] First Query Cost (Bar Chart)
+	- [ ] Robustness (Bar chart + sum_time)
+	- [ ] Convergence (Per Query Cost)
+	- [ ] Total Cost (Bar Chart)
+		Chapter 4 (Adaptive Progressive Indexing)
+		Ship Clean Version of Progressive Indexing With Cost Models
+		Include Reactive Progressive Indexing
+		Bring Function Interactive Threshold back
+		Run Experiments With Cost Model	
+		Chapter 5 (Multidimensional Progressive Indexing)
+		Turn paper into chapter + writing extension of PI
+	Progressive Updates
+		Finish integration of crakcing updates into progressive Indexing
 	Chapter 6 (Updates)
 		Turn paper into chapter
 	Chapter 7 (Conclusion + Big Picture)
