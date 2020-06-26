@@ -2,29 +2,36 @@
 ## July
 ### Week 1
 - [ ] Integrate Cracking Updates w/ Progressive
-
+- [ ] Unit Tests
 ### Week 2
 - [ ] Memory Rewiring for Creation Phase
-
+- [ ] Unit Tests
 ### Week 3
 - [ ] Progressive Mergesort for Refinement
+- [ ] Unit Tests
 ### Week 4
 - [ ] Greedy Mergesort for Refinement
+- [ ] Unit Tests
 
 ## August
 ### Week 1
 - [ ] Regular BPTree for consolidation
+- [ ] Unit Tests
+
 ### Week 2
-- [ ] Scripts for experiments + plots
+- [ ] Memory Rewiring for Bucketsort and Radixsort?
+- [ ] Unit Tests
+
 ### Week 3
-- [ ] Introduction + Related Work
+- [ ] Scripts for experiments + plots
+
 ### Week 4
-- [ ] Methods
+- [ ] Introduction + Related Work
 ## September
 ### Week 1
-- [ ] Experiments, Conclusion, FW
+- [ ] Methods
 ### Week 2
-- [ ] Revision
+- [ ] Experiments, Conclusion, FW
 ### Week 3
 - [ ] Revision
 ### Week 4
@@ -49,28 +56,34 @@
 	- [ ] Convergence (Per Query Cost)
 	- [ ] Total Cost (Bar Chart)
 ### Week 3
-- [ ] Revision
+	Chapter 3 (Progressive Indexing)
+- [ ] Run Experiments With Cost Model	
+- [ ] Ship Clean Version of Progressive Indexing With Cost Models
+- [ ] Include Reactive Progressive Indexing (?)
+- [ ] Bring Function Interactive Threshold back (?)
+
 ### Week 4
-- [ ] Revision
+	Chapter 4 (Greedy Progressive Indexing)
+- [ ] Run Experiments With Cost Model	
+- [ ] Ship Clean Version of Progressive Indexing With Cost Models
+- [ ] Include Reactive Progressive Indexing (?)
+- [ ] Bring Function Interactive Threshold back (?)
 
 ## November
-
-		Chapter 4 (Adaptive Progressive Indexing)
-		Ship Clean Version of Progressive Indexing With Cost Models
-		Include Reactive Progressive Indexing
-		Bring Function Interactive Threshold back
-		Run Experiments With Cost Model	
-		Chapter 5 (Multidimensional Progressive Indexing)
-		Turn paper into chapter + writing extension of PI
-	Progressive Updates
-		Finish integration of crakcing updates into progressive Indexing
-	Chapter 6 (Updates)
-		Turn paper into chapter
-	Chapter 7 (Conclusion + Big Picture)
-		Start writing
+###  Week 1
+	Chapter 5 (Multidimensional Progressive Indexing)
+- [ ] Turn paper into chapter + writing extension of PI
+### Week 2
+	Chapter 6 Progressive Updates
+- [ ] Turn paper into chapter
+### Week 3 
+	Chapter 8 (Conclusion + Future Work)
+- [ ] Write Conclusion and Future Work
+### Week 4
+	Chapter 9 (Big Picture)
+- [ ] Write Big Picture
 ## December
-	Chapter 7 (Conclusion + Big Picture)
-		Finish writing
+	Mainly thesis revisions/submissions
 
 ## Random Ideas
 - [ ] Bitvector micro-benchmark
